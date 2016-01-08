@@ -1,0 +1,32 @@
+h1 {
+	color: 00FFFF;
+}
+
+p {
+	color:99FFFF;
+}
+ul { color:99FFFF; 
+}
+ol { color: 33FFCC;}
+table { background-color: 333366
+}
+table { outline-color: blue
+}
+body {
+	background-image: url(http://www.freebestwallpapers.info/images/wallpapers/space_cat_large-884784.jpeg#space%20cat);
+     background-repeat: no-repeat;
+     background-position: right top;
+     background-attachment: fixed;
+
+	/* background-image: url(http://4.bp.blogspot.com/-uobtZd-Ly90/UoxgOy2rRgI/AAAAAAAAWAE/2JqbMKYDJVY/s1600/spacecat29.jpg); */
+	/*this is a tiled image of lazer cat for bg */
+}
+#Excursionlist {
+	font-size: 36
+}
+
+
+#catlist {
+	font-family: cursive; 
+}
+
